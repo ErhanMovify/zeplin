@@ -1,0 +1,21 @@
+{
+    "plugins": [
+        {
+            "name": "@zeplin/cli-connect-storybook-plugin",
+            "config": {
+                "url": "https://localhost:9009",
+                "startScript": "storybook"
+            }
+        },
+        {
+            "name": "@zeplin/cli-connect-react-plugin"
+        }
+    ],
+    "projects": [
+        "5e4e85412a06467f774a6dbf"
+    ],
+    "styleguides": [
+        "5e4e8584b68eb78e92e95d79"
+    ],
+    "components": []
+}
