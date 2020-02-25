@@ -6,12 +6,10 @@
     "styleguides": [
         "5e4e8584b68eb78e92e95d79"
     ],
-    "components": [],
-    "links": [
+    "components": [
         {
-            "name": "Styleguidist",
-            "type": "styleguidist",
-            "url": "https://https://ant.design/docs/react/introduce"
+            "path": "zeplin.code-workspace",
+            "zeplinNames": []
         }
     ]
 }
