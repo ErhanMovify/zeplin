@@ -1,0 +1,22 @@
+{
+  "name": "zeplin",
+  "version": "1.0.0",
+  "description": "zeplin project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErhanMovify/zeplin.git"
+  },
+  "keywords": [
+    "zeplin"
+  ],
+  "author": "erhan lammar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErhanMovify/zeplin/issues"
+  },
+  "homepage": "https://github.com/ErhanMovify/zeplin#readme"
+}
