@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ErhanMovify/zeplin/issues"
   },
-  "homepage": "https://github.com/ErhanMovify/zeplin#readme"
+  "homepage": "https://github.com/ErhanMovify/zeplin#readme",
+  "dependencies": {
+    "core-js": "^3.6.4"
+  }
 }
